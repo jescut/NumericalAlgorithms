@@ -1,3 +1,4 @@
 ## Numerical Algorithms
 ***
-    Algorithms created for Mech105 Spring18 at Colorado State University 
+    Algorithms created in MatLab for Mech105 Spring18 at Colorado State University 
+  
