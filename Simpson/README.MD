@@ -7,3 +7,5 @@
 * y = y coordinates of 
 # Output
 * I = Integral of the vector
+# Known Errors
+* Always uses trap rule
